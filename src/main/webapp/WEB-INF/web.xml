@@ -16,11 +16,11 @@ http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" version="2.5">
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>HTTPServlet</servlet-name>
-		<url-pattern>/HTTP</url-pattern>
+		<url-pattern>/babu.p</url-pattern>
 	</servlet-mapping>
 	<servlet-mapping>
 		<servlet-name>HTTPSServlet</servlet-name>
-		<url-pattern>/HTTPS</url-pattern>
+		<url-pattern>/babu.ps</url-pattern>
 	</servlet-mapping>
 	<welcome-file-list>
 		<welcome-file>index.html</welcome-file>
